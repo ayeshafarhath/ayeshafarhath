@@ -1,72 +1,71 @@
-<h1 align="center">Hi, I'm Ayesha 👩‍💻</h1>
+# Ayesha Farhath — GitHub Profile
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayesha-farhath-604634256/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayeshafarhath.21@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ayeshafarhath">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## What this is
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=AI%2FML+Engineer;Python+Developer;Data+Science+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+This repository contains my GitHub profile README: a concise introduction to my background, technical interests, selected projects, and current areas of focus.
 
-## About Me
+It is designed to provide a high-level view of my work as an AI/ML-focused developer who builds practical solutions with Python, data, and machine learning.
 
-I’m a B.Tech CSE (AI & ML) graduate focused on building practical projects in Python, data analysis, and machine learning. I enjoy turning messy real-world data into useful, testable workflows and learning by building projects with clear documentation and honest limitations.
+## Focus areas
 
-I’m especially interested in:
-- Python and data workflows
-- Machine learning and applied AI
+- Artificial intelligence and machine learning
+- Python development and data workflows
+- Data analysis and visualization
 - Geospatial analysis and clustering
 - Audio processing and speech AI
-- Debugging and code modernization
+- Software debugging and code modernization
+- Reproducible, well-documented project development
 
-## What I Build
+## How it is organized
 
-I focus on projects that combine:
-- real-world data problems
-- solid code structure
-- reproducible workflows
-- testing and validation
-- clear documentation
+```text
+README.md
+  Profile introduction, contact links, technical interests,
+  featured projects, technology stack, and GitHub activity
 
-## Featured Projects
+assets/
+  Supporting visual assets used by the profile
+```
 
-<p align="left">
-  <a href="https://github.com/ayeshafarhath/Uber-Trips-Analysis-">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayeshafarhath&repo=Uber-Trips-Analysis-&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ayeshafarhath/speech-emotion-recognition">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayeshafarhath&repo=speech-emotion-recognition&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+## How it fits together
 
-<p align="left">
-  <a href="https://github.com/ayeshafarhath/proov-km-waechter-fix">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayeshafarhath&repo=proov-km-waechter-fix&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+The profile introduces my technical background and highlights the types of projects I work on. It connects my interests in AI, machine learning, data analysis, and software development with selected repositories that demonstrate practical applications of those skills.
 
-## Tech Stack
+The featured projects include work involving:
+
+- Transportation and trip-data analysis
+- Speech emotion recognition
+- Code maintenance and debugging
+
+## Technical toolkit
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,fastapi,git,github,linux,docker,java,cpp,html,css,js" />
 </p>
 
-## Current Focus
+My primary development language is Python, supported by tools and frameworks for machine learning, data analysis, computer vision, APIs, experimentation, and deployment.
 
-- Building reliable AI and data workflows
-- Improving project documentation and project storytelling
-- Strengthening testing and reproducibility
-- Working on practical ML and geospatial projects
+## Current direction
 
-## GitHub Stats
+I am focused on building reliable and practical AI and data projects. My current priorities include:
+
+- Creating clearer and more reproducible workflows
+- Improving project documentation and technical storytelling
+- Strengthening testing and validation practices
+- Exploring applied machine learning and geospatial problems
+- Developing useful systems from real-world data
+
+## Featured projects
+
+- [Uber Trips Analysis](https://github.com/ayeshafarhath/Uber-Trips-Analysis-) — analysis of transportation and trip data
+- [Speech Emotion Recognition](https://github.com/ayeshafarhath/speech-emotion-recognition) — machine learning applied to speech and audio
+- [proov-km-waechter-fix](https://github.com/ayeshafarhath/proov-km-waechter-fix) — debugging and code improvement work
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ayesha-farhath-604634256/)
+- [GitHub](https://github.com/ayeshafarhath)
+- [Email](mailto:ayeshafarhath.21@gmail.com)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayeshafarhath&show_icons=true&theme=tokyonight&hide_border=true" />
