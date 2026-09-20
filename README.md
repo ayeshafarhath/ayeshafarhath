@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,25:7C3AED,55:EC4899,100:22D3EE&height=220&section=header&text=Ayesha%20Farhath&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20%26%20Computer%20Vision&descAlignY=58&descSize=18">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,25:7C3AED,55:EC4899,100:22D3EE&height=220&section=header&text=Ayesha%20Farhath&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20%26%20Computer%20Vision&descAlignY=58&descSize=18" alt="Ayesha Farhath Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshafarhath/ayeshafarhath/main/assets/animated-header.svg">
+    <img src="https://raw.githubusercontent.com/ayeshafarhath/ayeshafarhath/main/assets/animated-header.svg" alt="Ayesha Farhath Banner" width="100%">
   </picture>
 </p>
 
@@ -23,6 +23,7 @@
 
 <table align="center">
 <tr>
+
 <td width="65%" valign="top">
 
 - 💻 AI/ML Engineer and Python Developer passionate about building practical solutions.
@@ -39,6 +40,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084f5f6-3c2d-4b7a-b7e8-d0756d6a5c0e.png" width="180" alt="Developer illustration" />
 
 </td>
+
 </tr>
 </table>
 
